@@ -6,4 +6,4 @@ Things that might be done better
 - more tests
 - add more comments to explain Sieve of Eratosthenes algorithm used
 - probably I should use Atomics library in order to have safer operations with shared array
-- 
+- compare my solution with other approaches like generation only on main thread, generation with cloned array etc 
